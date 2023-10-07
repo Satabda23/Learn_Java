@@ -1,2 +1,3 @@
 # Learn_Java
-Lets learn java in the most efficient way
+Let's learn java in the most efficient way
+author: Satabda Hazarikas
